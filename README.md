@@ -42,7 +42,7 @@ This project provides a comprehensive analysis of Netflix’s global content lib
 ```bash
 Dashboard/   → Tableau workbook (.twbx)
 Dataset/     → netflix_titles.csv
-assest/      → dashboard screenshot
+assets/      → dashboard screenshot
 ```
 
 ---
