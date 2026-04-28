@@ -8,7 +8,7 @@ This project provides a comprehensive analysis of Netflix’s global content lib
 
 ## 🖼️ Dashboard Preview
 
-[![Dashboard](./assest/dashboard.png)](https://public.tableau.com/shared/FD7F983JY?:display_count=n&:origin=viz_share_link)
+[![Dashboard](./assest/dashboard.png)]
 
 ---
 
