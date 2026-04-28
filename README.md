@@ -8,7 +8,7 @@ This project provides a comprehensive analysis of Netflix’s global content lib
 
 ## 🖼️ Dashboard Preview
 
-[![Dashboard](./Trends Analysis/assets/dashboard.png)]
+[![Dashboard](./Trends Analysis/assets/dashboard.png)
 
 ---
 
